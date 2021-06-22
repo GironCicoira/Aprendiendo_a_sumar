@@ -7,4 +7,5 @@
 34P, Copiar 5 valores ingresador en un vector, y reescribir un nuevo vector que sea el multiplo de dos del primer vector.
 36, ingresar datos de una matriz y posterirmente leerlos.
 37, copiar matrices.
-39, Ingresas una matriz 3x3, y te da la matriz transpuesta.
+38, Ingresas una matriz 3x3, y te da la matriz transpuesta.
+39, Te dice si una matriz es simetrica, le ingresas la cantidad de filas y columnas y los datos.
