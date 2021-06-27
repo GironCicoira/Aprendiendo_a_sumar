@@ -11,3 +11,4 @@
 39, Te dice si una matriz es simetrica, le ingresas la cantidad de filas y columnas y los datos.
 50, Metodo borbuja.
 51, Metodo de insercion, ingresando la cantidad de numeros a ordenar.
+52, Ordenamiento por seleccion.
